@@ -1,4 +1,4 @@
-# 🎬 Twitch Clip to Discord (Streamer.bot C#)
+[# 🎬 Twitch Clip to Discord (Streamer.bot C#)
 
 Ce script pour **Streamer.bot** permet de créer un clip Twitch instantanément via une commande chat (ex: `!clip`), de récupérer automatiquement les informations du jeu en cours, et d'envoyer le tout proprement sur votre serveur **Discord** via un Webhook.
 
@@ -53,7 +53,7 @@ Tapez simplement **!clip** dans votre chat Twitch.
 ## 🛠️ Dépannage
 * **Jeu Inconnu** : Assurez-vous d'avoir bien mis la sub-action `Get user info for Targer -> %broadcastUser%` **AVANT** le code C#.
 * **Le clip ne se crée pas** : Twitch limite parfois la création de clips (stream trop récent ou trop de clips en peu de temps).
-* **Erreur de compilation** : Vérifiez que vous avez bien ajouté la référence `System.Net.Http.dll`.
+* **Erreur de compilation** : Vérifiez que vous avez bien ajouté la référence `System.Net.Http.dll`.](https://github.com/Rsprintdesign0/Streamerbot-Twitch-Clip-to-Discord/tree/main)
 
 ---
 
